@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 //MrHaddis
 //https://github.com/MrHaddis/PAT1022

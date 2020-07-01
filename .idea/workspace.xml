@@ -12,12 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ab84256-26a3-48ef-92ac-ecf0d095730d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1022.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1022.dir/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1022.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1022.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PAT1022.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PAT1022.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,29 +154,49 @@
       <updated>1593421713584</updated>
       <workItem from="1593421714830" duration="849000" />
       <workItem from="1593478468097" duration="3890000" />
-      <workItem from="1593566504516" duration="3209000" />
+      <workItem from="1593566504516" duration="4296000" />
     </task>
+    <task id="LOCAL-00001" summary="提交代码">
+      <created>1593593722011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593593722011</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交代码" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1593592636073">
+    <state x="558" y="41" key="CommitChangelistDialog2" timestamp="1593593720429">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593592636073" />
-    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1593592636073">
+    <state x="558" y="41" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1593593720429" />
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1593594837054">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593592636073" />
-    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1593592636073">
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593594837054" />
+    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1593594837053">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593592636073" />
-    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1593592636073">
+    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593594837053" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1593594837053">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593592636073" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593594837053" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1593594837054">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593594837054" />
+    <state x="552" y="269" key="Vcs.Push.Dialog.v2" timestamp="1593593831861">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="269" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1593593831861" />
   </component>
 </project>
