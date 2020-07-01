@@ -11,7 +11,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ab84256-26a3-48ef-92ac-ecf0d095730d" name="Default Changelist" comment="" />
+    <list default="true" id="8ab84256-26a3-48ef-92ac-ecf0d095730d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1022.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1022.dir/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1022.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PAT1022.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PAT1022.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PAT1022.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,13 +28,18 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dzIu1Szoje9Lpvp5En1OqBXdXD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="F:/sdk" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -146,7 +158,8 @@
       <option name="presentableId" value="Default" />
       <updated>1593421713584</updated>
       <workItem from="1593421714830" duration="849000" />
-      <workItem from="1593478468097" duration="643000" />
+      <workItem from="1593478468097" duration="3890000" />
+      <workItem from="1593566504516" duration="3209000" />
     </task>
     <servers />
   </component>
@@ -154,21 +167,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1593423391085">
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1593592636073">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593423391085" />
-    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1593423391085">
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593592636073" />
+    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1593592636073">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593423391085" />
-    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1593423391084">
+    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593592636073" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1593592636073">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593423391084" />
-    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1593423391085">
+    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593592636073" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1593592636073">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593423391085" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593592636073" />
   </component>
 </project>
